@@ -1,4 +1,6 @@
 # Pastel Themed Website 🌸🌸
+
+Found [HERE](https://xcodersai.github.io/pastel/pastel.html) <-- Click it! 💌
 Coded with jQuery, a super super basic website for all your 🧁 kawaii 🧁 needs!
 
 # ...Why? 🌸🌸
